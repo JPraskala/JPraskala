@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JPraskala
 - 👀 I’m interested in becoming a Software Engineer
 - I recently graduated from The University of North Carolina at Charlotte with a Bachelor of Science in Computer Science
-- 🌱 I’m currently learning how to create an Emualtor for an old gaming console.
+- 🌱 I’m currently learning more about machine learning and the mathematics behind the algorithms.
 - 💞️ I’m looking to collaborate on any project involving Machine Learning.
 - 📫 How to reach me email me at praskalaj@gmail.com
 
